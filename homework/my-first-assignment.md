@@ -12,9 +12,9 @@
 
 #### Objective A)
 
-<img src="images/github.png"
+<img src="../images/github.png"
      alt="Github icon"
-     style="float: left; width: 50%" />
+     style="float: center; width: 50%" />
 
 </br>
 
@@ -43,9 +43,9 @@ All I want you to do is get logged in. You should see the exact same layout, and
 
 ### Objective B
 
-<img src="images/slack.png"
+<img src="../images/slack.png"
      alt="Slack icon"
-     style="float: left; width: 50%" />
+     style="float: center; width: 30%" />
 
 </br>
 
